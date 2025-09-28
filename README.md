@@ -1,6 +1,5 @@
 # Loan-Survival-Analysis-Time-to-Default-Prediction
 Modeled loan repayment behavior using Kaplan-Meier and Cox Proportional Hazard models. Estimated survival probabilities over time, highlighting trends and risk exposures in loan portfolios
-# Loan Survival Analysis / Time-to-Default Prediction
 
 ## Overview
 This project predicts the **time until a loan defaults** using survival analysis techniques. Unlike traditional classification models, survival analysis provides **time-to-event insights**, which is highly valuable for **credit risk assessment and financial decision-making**.

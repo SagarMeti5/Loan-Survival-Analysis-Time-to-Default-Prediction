@@ -44,4 +44,6 @@ The analysis leverages the **Lending Club loan dataset** (or your Credit Risk Mo
    ```bash
    git clone https://github.com/your-username/Loan-Survival-Analysis.git
 
-
+## Author
+*Sagar Meti*  
+MSc Data Science | Madras School of Economics
